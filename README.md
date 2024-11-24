@@ -43,7 +43,7 @@
 
 1. Склонируйте репозиторий
    ```sh
-   git clone https://github.com/mxtadone/tverse.git
+   git clone https://github.com/mxthadone/tverse.git
    ```
 2. Создайте виртуальное окружение
    ```sh
@@ -68,7 +68,7 @@
 
 1. Склонируйте репозиторий
    ```sh
-   git clone https://github.com/mxtadone/tverse.git
+   git clone https://github.com/mxthadone/tverse.git
    ```
 2. Создайте виртуальное окружение
    ```sh
