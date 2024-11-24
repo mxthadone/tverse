@@ -116,7 +116,7 @@
 
 
 [telegram-shield]: https://img.shields.io/badge/Telegram-29a9eb?style=for-the-badge&logo=telegram&logoColor=white
-[telegram-url]: https://telegram.me/mxtadone
+[telegram-url]: https://telegram.me/rnxcode
 [product-screenshot]: https://i.ibb.co/C8sbzRY/image.png
 [Python.com]: https://img.shields.io/badge/python%203.10-3670A0?style=for-the-badge&logo=python&logoColor=ffffff
 [Python-url]: https://www.python.org/downloads/release/python-3100/
